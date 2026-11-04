@@ -48,8 +48,3 @@ Se eligió **SharedPreferences** porque permite guardar de forma ligera y rápid
 
 ## 11. Declaración de uso de IA
 Para la elaboración de la estructura inicial del proyecto, la guía de implementación de los widgets y la lógica de persistencia con `SharedPreferences` se utilizó asistencia de inteligencia artificial bajo la supervisión directa del autor, quien comprende, edita y puede explicar cada línea de código entregada.
-
-## 12. Instrucciones de Ejecución
-1. Clona el repositorio: `git clone https://github.com/tu-usuario/et0126-behealthy.git`
-2. Instala las dependencias: `flutter pub get`
-3. Ejecuta la aplicación: `flutter run`
